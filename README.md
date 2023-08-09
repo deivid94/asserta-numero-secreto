@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src= "src/img/img.png" width_="400px">
 
-  <p> <a href="">JOGO ACERTE O NUMERO SECRETO.</a>
+  <p> <a href="https://asserta-numero-secreto.vercel.app/">JOGO ACERTE O NUMERO SECRETO.</a>
 </h1>
 
 <blockquote align="center"> “Faça seu melhor, mas sempre com prazo de entrega!”</blockquote>
@@ -13,7 +13,8 @@
    e voce tem que advinhar por comando de voz, qual o numero que o sistema gerou.
    O sistema vai dando dicas se voce deve falar um numero maior ou menor do que voce falou anteriormente
 
-   <span style="color:red">A aplicacao funciona somente no GOOGLE CHROME, A API speech-recogntion tem uma melhor perfomance no navegador da google<span>
+   <span style="color:red">A aplicacao funciona somente no GOOGLE CHROME, A API speech-recogntion tem uma melhor perfomance no navegador da google lembr-se de permitir que o NAVEGADOR UTILIZE O SEU MICROFONE.
+   </span>
 
 <p align="center">
  <img alt="" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
